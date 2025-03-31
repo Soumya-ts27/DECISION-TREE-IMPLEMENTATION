@@ -90,4 +90,4 @@ The `plt.figure(figsize=(12, 8))` adjusts the figure size to ensure clear visual
 
 This code effectively demonstrates how to implement a decision tree classifier for a multi-class classification problem. The use of Gini impurity for splitting nodes, limiting the tree depth, and visualizing the tree enhances the interpretability of the model. Decision trees are especially useful for understanding how decisions are made, making them valuable for domains requiring explainability.
 
-**OUTPUT**:
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/ce24a96a-6d5e-49e5-ad9a-c7dc030d2b2d)
